@@ -10,6 +10,7 @@ Recently, I have been exploring artificial intelligence (AI) in my free time. I 
 # Other things 
 - I am in college 
 - I like to lift weights in my free time
+- I am a hardcore Madison Beer fan 
 
 <!--
 **GiftedNovaHD/GiftedNovaHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
