@@ -7,6 +7,10 @@ I started programming at the age of 12, where I familiarized myself with the C-f
 # Stuff that I am learning 🌱
 Recently, I have been exploring artificial intelligence (AI) in my free time. I find the relationship between rigorous mathematical models and its applications in scientific computing extremely elegant and intriguing, which was one of the motivations in learning more about AI. I am currently playing around with Jax as my main library for machine learning applications.
 
+# Other things 
+- I am in college 
+- I like to lift weights in my free time
+
 <!--
 **GiftedNovaHD/GiftedNovaHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
